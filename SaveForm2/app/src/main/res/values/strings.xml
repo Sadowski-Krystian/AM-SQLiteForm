@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SaveForm2</string>
+    <string name="action_settings">Settings</string>
+    <string name="form_title">Rejestracja na imprezę X</string>
+    <string name="form_surname">Nazwisko</string>
+    <string name="form_name">Imie</string>
+    <string name="form_city">Miejscowość</string>
+    <string name="form_bornDate">Data urodzenia</string>
+    <string name="form_acptRules">Akceptuję regulamin</string>
+    <string name="form_acptGdpr">Zgoda RODO</string>
+    <string name="form_btnRemember">Zapamiętaj</string>
+    <string name="form_btnStore">Zapisz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
